@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <head>
+    <title>HL Daemon Subscriptions</title>
+    <dateModifieda>07.05.16 13:35:11 +00:00</dateModifieda>
+  </head>
+  <body>
+    <outline text="OutlineText1" feedId="00000000-0000-0000-0000-000000000000" folderId="00000000-0000-0000-0000-000000000000" />
+  </body>
+</opml>

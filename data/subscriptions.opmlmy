@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<opml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <head>
+    <title>FeedDemon Subscriptions</title>
+    <dateModified>Sat, 07 May 2016 11:29:18 GMT</dateModified>
+  </head>
+  <body>
+    <outline text="[Мои каналы]" d3p1:feedId="00000000-0000-0000-0000-000000000000" xmlns:d3p1="http://www.bradsoft.com/feeddemon/xmlns/1.0/">
+      <outline text="Новости спорта" d3p1:feedId="00000000-0000-0000-0000-000000000000">
+        <outline text="Футбол Беларуси и мира - by.tribuna.com" title="Футбол Беларуси и мира - by.tribuna.com" type="rss" xmlUrl="http://by.tribuna.com/rss/rubric.xml?id=208" htmlUrl="http://by.tribuna.com/" d3p1:feedId="25d53637-43da-4e95-bf03-e4567c35b9a1" />
+        <outline text="Хоккей Беларуси и мира - by.tribuna.com" title="Хоккей Беларуси и мира - by.tribuna.com" type="rss" xmlUrl="http://by.tribuna.com/rss/rubric.xml?id=209" htmlUrl="http://by.tribuna.com/" d3p1:feedId="447592a8-6de5-4555-a534-63bda3bc57f3" />
+        <outline text="Белорусский футбол : Новости" title="Белорусский футбол : Новости" type="rss" xmlUrl="http://www.football.by/news/index.rss" htmlUrl="http://www.football.by/news/" d3p1:feedId="52315e57-393d-4d8d-aa80-6822c9a7519c" />
+        <outline text="UEFA.com - - Новости" title="UEFA.com - - Новости" type="rss" xmlUrl="http://ru.uefa.com/rssfeed/news/rss.xml" htmlUrl="http://ru.uefa.com" d3p1:feedId="8546a4b4-6870-4f65-806a-69825076223a" />
+        <outline text="СПОРТ-ЭКСПРЕСС. Новости трансферного рынка" title="СПОРТ-ЭКСПРЕСС. Новости трансферного рынка" type="rss" xmlUrl="http://ss.sport-express.ru/rss/transfers_news.rss" htmlUrl="http://www.sport-express.ru/" d3p1:feedId="fb398c8c-d2f2-4907-b390-7f213cdfe5a0" />
+        <outline text="ЕвроФутбол.Ру Новости" title="ЕвроФутбол.Ру Новости" type="rss" xmlUrl="http://www.euro-football.ru/category/rss/" htmlUrl="http://www.euro-football.ru/" d3p1:feedId="ff774c32-6f8a-4d3a-b69a-8c375b41c901" />
+      </outline>
+      <outline text="Программирование" d3p1:feedId="00000000-0000-0000-0000-000000000000">
+        <outline text="CodePlex" title="CodePlex" type="rss" xmlUrl="http://www.codeplex.com/site/feeds/rss" htmlUrl="http://www.codeplex.com/site/feeds/rss" d3p1:feedId="07270248-99aa-44c5-8bae-7005c655c576" />
+        <outline text="The Code Project Latest Articles" title="The Code Project Latest Articles" type="rss" xmlUrl="http://www.codeproject.com/webservices/articlerss.aspx?cat=3" htmlUrl="http://www.codeproject.com" d3p1:feedId="28d63097-5660-4f1d-8fe0-c64cc49dbd84" />
+        <outline text="Хабрахабр: Хабралента" title="Хабрахабр: Хабралента" type="rss" xmlUrl="https://habrahabr.ru/rss/feed/posts/all/0beb6a75769730973abc2947409587b8/" htmlUrl="http://habrahabr.ru/feed/posts/all/" d3p1:feedId="2c19fb13-6cf1-414a-a4dc-c02d84304ed9" />
+        <outline text="Новые материалы на MSDN" title="Новые материалы на MSDN" type="rss" xmlUrl="http://newsengine.cloudapp.net/MSDN/rss" htmlUrl="http://newsengine.cloudapp.net/?FeedName=MSDN" d3p1:feedId="2eac183a-1872-448f-912f-89ce772fd643" />
+        <outline text="Programming stuff" title="Programming stuff" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/Znar" htmlUrl="http://sergeyteplyakov.blogspot.com/" d3p1:feedId="3a697b2c-a06d-4dca-b24a-40a4ff5988be" />
+        <outline text="Хабрахабр: Новости" title="Хабрахабр: Новости" type="rss" xmlUrl="https://habrahabr.ru/rss/hubs/" htmlUrl="http://habrahabr.ru/rss/hubs/" d3p1:feedId="41b558bd-58b3-45c0-93cd-2770b810ded3" />
+        <outline text="MSDN Magazine: RSS Feed" title="MSDN Magazine: RSS Feed" type="rss" xmlUrl="http://sxp.microsoft.com/feeds/3.0/msdntn/MSDNMagazine_ruru?z=z&amp;all=1" htmlUrl="http://msdn.microsoft.com/magazine" d3p1:feedId="4dd41ae1-16a6-4078-a7b1-f981f00da011" />
+        <outline text="Stump's Workshop" title="Stump's Workshop" type="rss" xmlUrl="http://stump-workshop.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://stump-workshop.blogspot.com/" d3p1:feedId="5a4fd099-b761-4980-b19e-cd15e2d57550" />
+        <outline text="Секреты Visual Studio" title="Секреты Visual Studio" type="rss" xmlUrl="https://blogs.msdn.microsoft.com/rusaraford/feed" htmlUrl="http://blogs.msdn.com/b/rusaraford/" d3p1:feedId="5e2e8429-0f02-40f6-bfc6-e8fefa5b6bc2" />
+        <outline text="Хабрахабр: коллективные" title="Хабрахабр: коллективные" type="rss" xmlUrl="https://habrahabr.ru/rss/hub/net/" htmlUrl="http://habrahabr.ru/rss/hub/net/" d3p1:feedId="b3b64cad-d88a-44f1-8b8e-1ef7f2b27cda" />
+        <outline text="Хабрахабр: Лучшие публикации за сутки" title="Хабрахабр: Лучшие публикации за сутки" type="rss" xmlUrl="https://habrahabr.ru/rss/best/" htmlUrl="http://habrahabr.ru/posts/top/" d3p1:feedId="b777d989-9a4b-48c4-b5e5-70aed5b18475" />
+        <outline text="Невероятные приключения в коде" title="Невероятные приключения в коде" type="rss" xmlUrl="https://blogs.msdn.microsoft.com/ruericlippert/feed" htmlUrl="http://blogs.msdn.com/b/ruericlippert/" d3p1:feedId="caef5ec5-c0bc-4bba-b4ae-22ef8aaa6fe8" />
+        <outline text="GotDotNet.Ru: новые статьи" title="GotDotNet.Ru: новые статьи" type="rss" xmlUrl="https://social.msdn.microsoft.com:443/Forums/ru-RU/home" htmlUrl="http://www.gotdotnet.ru/" d3p1:feedId="d3269118-e4b0-40b7-b74e-665f2513f8ca" />
+      </outline>
+      <outline text="Новости сайтов" d3p1:feedId="00000000-0000-0000-0000-000000000000">
+        <outline text="Ru-admin.net ежедневный обзор сети" title="Ru-admin.net ежедневный обзор сети" type="rss" xmlUrl="http://ru-admin.net/rss.xml" htmlUrl="http://ru-admin.net/" d3p1:feedId="0876817a-f740-41fa-a753-134fdb86a8f8" />
+        <outline text="DreamProgs: Скачать софт и игры по прямым ссылкам" title="DreamProgs: Скачать софт и игры по прямым ссылкам" type="rss" xmlUrl="http://feeds.feedburner.com/dreamprogs/all" htmlUrl="http://dreamprogs.net/" d3p1:feedId="35910008-843c-48cb-ae4f-91179989a832" />
+        <outline text="SoftAZ" title="SoftAZ" type="rss" xmlUrl="http://softaznet.ru/engine/rss.php" htmlUrl="http://softaznet.ru/" d3p1:feedId="3a343159-ed8a-4eba-88a1-d18dbb109ca7" />
+        <outline text="SoftOSmotr.RU: Скачай бесплатно soft, фильмы, программы, варез(varez), и многое другое!" title="SoftOSmotr.RU: Скачай бесплатно soft, фильмы, программы, варез(varez), и многое другое!" type="rss" xmlUrl="http://softosmotr.ru/rss.xml" htmlUrl="http://softosmotr.ru/" d3p1:feedId="8c84d51d-5c59-4397-b866-0593f584c3e8" />
+        <outline text="689.RU" title="689.RU" type="rss" xmlUrl="http://www.689.ru/rss.xml" htmlUrl="http://www.689.ru/" d3p1:feedId="acbf9447-a055-4cd8-bd10-6e280949db48" />
+        <outline text="IsraBox.com" title="IsraBox.com" type="rss" xmlUrl="http://www.israbox.be/rss.xml" htmlUrl="http://www.israbox.com/" d3p1:feedId="addde6ad-f19f-4a43-b0e3-595833bed8ec" />
+        <outline text="HQ-VIDEO.ORG" title="HQ-VIDEO.ORG" type="rss" xmlUrl="http://www.hq-video.org/export/rss.xml" htmlUrl="http://hq-video.org" d3p1:feedId="af55b1da-10c1-45d9-b274-a57ee8a2f924" />
+        <outline text="Последние материалы портала OSzone.net" title="Последние материалы портала OSzone.net" type="rss" xmlUrl="http://rss.feedsportal.com/c/852/f/441030/index.rss" htmlUrl="http://www.oszone.net" d3p1:feedId="cb41d6fe-4fb4-4207-a40e-c93997893770" />
+        <outline text="LEMnews.com" title="LEMnews.com" type="rss" xmlUrl="http://feeds.feedburner.com/lemnews" htmlUrl="http://lemnews.info/" d3p1:feedId="d006a9e8-6e23-4efc-b81c-493867e3220b" />
+        <outline text="MTS news" title="MTS news" type="rss" xmlUrl="http://www.mts.by/rss/" htmlUrl="http://mts.by" d3p1:feedId="f45f6f0d-0ea9-4b8b-a66f-e25071df16e3" />
+        <outline text="Мультики by ArjLover" title="Мультики by ArjLover" type="rss" xmlUrl="http://multiki.arjlover.net/rss.xml" htmlUrl="http://multiki.arjlover.net/" d3p1:feedId="f4c00ef4-ccd3-4f2b-a431-001dd59e7857" />
+      </outline>
+      <outline text="Литература" d3p1:feedId="00000000-0000-0000-0000-000000000000">
+        <outline text="Infanata - Лучшие книги Интернета" title="Infanata - Лучшие книги Интернета" type="rss" xmlUrl="http://infanata.com/rss.xml" htmlUrl="http://www.infanata.com/" d3p1:feedId="120d69f9-3024-4450-a9ce-60bb06f166f0" />
+        <outline text="Journal-plaza" title="Journal-plaza" type="rss" xmlUrl="http://www.journal-plaza.net/rss.xml" htmlUrl="http://www.journal-plaza.net/" d3p1:feedId="570f4ddd-412c-479b-a11f-387d4f003415" />
+        <outline text="Электронная библиотека" title="Электронная библиотека" type="rss" xmlUrl="http://www.big-library.net/rss.xml" htmlUrl="http://www.big-library.net/" d3p1:feedId="aaa7bc30-4e8e-4df1-9a2b-c6938c4f0580" />
+      </outline>
+      <outline text="Фильмы" d3p1:feedId="00000000-0000-0000-0000-000000000000">
+        <outline text="Kinopark.by - Сегодня в кинотеатрах" title="Kinopark.by - Сегодня в кинотеатрах" type="rss" xmlUrl="http://kinopark.by/today.rss.cgi" htmlUrl="http://kinopark.by" d3p1:feedId="38131333-2ce0-4b29-9fae-134ab13778be" />
+        <outline text="Фильмторрент" title="Фильмторрент" type="rss" xmlUrl="http://filmitorrent.org/rss.xml" htmlUrl="http://filmitorrent.org/" d3p1:feedId="531aaceb-33ba-4f52-8027-347bed9218e9" />
+        <outline text="newfilmz.tv" title="newfilmz.tv" type="rss" xmlUrl="http://newfilmz.tv/rss.xml" htmlUrl="http://newfilmz.tv/" d3p1:feedId="a3b053f0-d6e7-401d-bd13-46f3d586370d" />
+        <outline text="Новинки кино, тв каналы онлайн + торрент. Открытый кино трекер!" title="Новинки кино, тв каналы онлайн + торрент. Открытый кино трекер!" type="rss" xmlUrl="http://tv-filmy.com/rss.xml" htmlUrl="http://tv-films.me/" d3p1:feedId="c18060e7-7b5c-47fc-a3cd-bf3eb4b41eda" />
+        <outline text="Kinopark.by - Программа на неделю" title="Kinopark.by - Программа на неделю" type="rss" xmlUrl="http://kinopark.by/films.rss.cgi" htmlUrl="http://kinopark.by" d3p1:feedId="ce6a030c-7ff1-4476-b55a-3bcdf801cb2c" />
+        <outline text="Трекер HDClub" title="Трекер HDClub" type="rss" xmlUrl="http://hdclub.org/rss.php?cat=70,78,71,62,64&amp;passkey=4fb3fbd0f35d11ac3e8f640fc2b3c962" htmlUrl="http://hdclub.org" d3p1:feedId="fd22a638-607c-4283-955f-d84eb6a056f4" />
+      </outline>
+      <outline text="Новости IT" d3p1:feedId="00000000-0000-0000-0000-000000000000">
+        <outline text="dev.by: Все о работе в IT" title="dev.by: Все о работе в IT" type="rss" xmlUrl="https://dev.by/rss" htmlUrl="http://www.dev.by/rss" d3p1:feedId="17e2d9ac-533c-464b-b80d-d7f19629695b" />
+        <outline text="iXBT статьи" title="iXBT статьи" type="rss" xmlUrl="http://www.ixbt.com/export/articles.rdf" htmlUrl="http://www.ixbt.com/" d3p1:feedId="826a6580-3dce-48e3-a902-6e4ef4414db6" />
+        <outline text="Новости Компьютерра" title="Новости Компьютерра" type="rss" xmlUrl="http://feeds.feedburner.com/ct_news/" htmlUrl="http://www.compulenta.ru" d3p1:feedId="b129b718-abf2-4785-baae-d92187acf961" />
+      </outline>
+      <outline text="Новости" d3p1:feedId="00000000-0000-0000-0000-000000000000">
+        <outline text="euronews Новости" title="euronews Новости" type="rss" xmlUrl="http://feeds.feedburner.com/euronews/ru/news" htmlUrl="http://ru.euronews.com" d3p1:feedId="0ff35c9b-0afa-4160-acdb-4c427fc14bf0" />
+        <outline text="TUT.BY: Новости ТУТ" title="TUT.BY: Новости ТУТ" type="rss" xmlUrl="http://news.tut.by/rss/all.rss" htmlUrl="http://news.tut.by/" d3p1:feedId="4e4bc8ff-7a0e-47e4-8df1-43c4debb80b6" />
+        <outline text="Наша Ніва: першая беларуская газета" title="Наша Ніва: першая беларуская газета" type="rss" xmlUrl="http://nn.by/?c=rss-all" htmlUrl="http://nn.by/" d3p1:feedId="5516b5bd-c594-4253-9c1c-19072f69bb94" />
+        <outline text="Солидарность" title="Солидарность" type="rss" xmlUrl="http://www.gazetaby.com/rss/index.php" htmlUrl="http://www.gazetaby.com/" d3p1:feedId="6f1db529-9d60-44b9-9884-58458300e6c5" />
+        <outline text="Хартия-97" title="Хартия-97" type="rss" xmlUrl="http://www.charter97.org/rss.php" htmlUrl="http://www.charter97.org/" d3p1:feedId="88ac9555-92a3-43fe-ae2d-567c9176bd4c" />
+        <outline text="Lenta.ru: Новости" title="Lenta.ru: Новости" type="rss" xmlUrl="https://lenta.ru/rss/" htmlUrl="http://lenta.ru" d3p1:feedId="95a9812e-c9ea-4491-9a02-3142391d943c" />
+        <outline text="Новости - UDF.BY | Новости Беларуси" title="Новости - UDF.BY | Новости Беларуси" type="rss" xmlUrl="http://feeds.feedburner.com/ads?format=xml" htmlUrl="http://udf.by/" d3p1:feedId="a2d5e7db-dcb2-4c23-84fe-4b67b40aec80" />
+        <outline text="Белорусские новости: Все материалы" title="Белорусские новости: Все материалы" type="rss" xmlUrl="http://naviny.by/rss/alls.xml" htmlUrl="http://naviny.by/" d3p1:feedId="ac307702-b6aa-48d0-86fc-050d9b50a672" />
+        <outline text="Новости BELTA.BY" title="Новости BELTA.BY" type="rss" xmlUrl="http://www.belta.by/rss" htmlUrl="http://www.belta.by/ru" d3p1:feedId="c2572000-4632-4d06-9573-2327b642fda9" />
+        <outline text="BBCRussian.com | Главная" title="BBCRussian.com | Главная" type="rss" xmlUrl="http://wsrss.bbc.co.uk/russian/index.xml" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fwww.bbc.co.uk%2Frussian%2Findex.xml" d3p1:feedId="ea2b1596-5e99-4fae-abae-517b4f7fcd30" />
+      </outline>
+      <outline text="Юмор" d3p1:feedId="00000000-0000-0000-0000-000000000000">
+        <outline text="Bash.Org.Ru" title="Bash.Org.Ru" type="rss" xmlUrl="http://bash.im/rss/" htmlUrl="http://bash.im/" d3p1:feedId="3cc79427-a55e-41cc-aa61-656952c95156" />
+      </outline>
+      <outline text="Работа" d3p1:feedId="00000000-0000-0000-0000-000000000000">
+        <outline text="Redmine: Issues" title="Redmine: Issues" type="rss" xmlUrl="http://vm-redmine/issues.atom?assigned_to_id=me&amp;key=a86f3743056e71d71b6ed301da3a21c803119b3e&amp;set_filter=1&amp;sort=priority%3Adesc%2Cupdated_on%3Adesc" htmlUrl="http://vm-redmine/issues?assigned_to_id=me&amp;set_filter=1&amp;sort=priority%3Adesc%2Cupdated_on%3Adesc" d3p1:feedId="e5e203d0-8bc0-4971-86fa-039ff7f2af56" />
+      </outline>
+      <outline text="Onliner" d3p1:feedId="00000000-0000-0000-0000-000000000000">
+        <outline text="Технологии onliner.by" title="Технологии onliner.by" type="rss" xmlUrl="https://tech.onliner.by/feed" htmlUrl="http://tech.onliner.by/" d3p1:feedId="0bacbc97-39a7-4cf8-9df2-fb1fe368a2b0" />
+        <outline text="Недвижимость onliner.by" title="Недвижимость onliner.by" type="rss" xmlUrl="https://realt.onliner.by/feed" htmlUrl="http://realt.onliner.by/" d3p1:feedId="a883031d-a711-449f-b3cd-146bfaf18fc1" />
+        <outline text="Авто onliner.by" title="Авто onliner.by" type="rss" xmlUrl="https://auto.onliner.by/feed" htmlUrl="http://auto.onliner.by/" d3p1:feedId="c63a7abc-611d-47a6-8fd3-7a83f39a66c1" />
+        <outline text="Люди onliner.by" title="Люди onliner.by" type="rss" xmlUrl="https://people.onliner.by/feed" htmlUrl="http://people.onliner.by/" d3p1:feedId="c9f8fe22-28c3-4a70-8d2c-a086ca62a159" />
+      </outline>
+    </outline>
+  </body>
+</opml>

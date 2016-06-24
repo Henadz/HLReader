@@ -1,0 +1,72 @@
+<opml version="1.1">
+  <head>
+    <title>FeedDemon Subscriptions</title>
+    <dateModified>Tue, 10 May 2016 11:09:05 GMT</dateModified>
+  </head>
+  <body>
+    <outline text="Onliner"/>
+    <outline text="Литература">
+      <outline text="Infanata - Лучшие книги Интернета" title="Infanata - Лучшие книги Интернета" type="rss" xmlUrl="http://infanata.com/rss.xml" htmlUrl="http://www.infanata.com/"/>
+      <outline text="Journal-plaza" title="Journal-plaza" type="rss" xmlUrl="http://www.journal-plaza.net/rss.xml" htmlUrl="http://www.journal-plaza.net/"/>
+      <outline text="Электронная библиотека" title="Электронная библиотека" type="rss" xmlUrl="http://www.big-library.net/rss.xml" htmlUrl="http://www.big-library.net/"/>
+    </outline>
+    <outline text="Новости">
+      <outline text="euronews Новости" title="euronews Новости" type="rss" xmlUrl="http://feeds.feedburner.com/euronews/ru/news" htmlUrl="http://ru.euronews.com"/>
+      <outline text="TUT.BY: Новости ТУТ" title="TUT.BY: Новости ТУТ" type="rss" xmlUrl="http://news.tut.by/rss/all.rss" htmlUrl="http://news.tut.by/"/>
+      <outline text="Наша Ніва: першая беларуская газета" title="Наша Ніва: першая беларуская газета" type="rss" xmlUrl="http://nn.by/?c=rss-all" htmlUrl="http://nn.by/"/>
+      <outline text="Солидарность" title="Солидарность" type="rss" xmlUrl="http://www.gazetaby.com/rss/index.php" htmlUrl="http://www.gazetaby.com/"/>
+      <outline text="Хартия-97" title="Хартия-97" type="rss" xmlUrl="http://www.charter97.org/rss.php" htmlUrl="http://www.charter97.org/"/>
+      <outline text="Новости - UDF.BY | Новости Беларуси" title="Новости - UDF.BY | Новости Беларуси" type="rss" xmlUrl="http://feeds.feedburner.com/ads?format=xml" htmlUrl="http://udf.by/"/>
+      <outline text="Белорусские новости: Все материалы" title="Белорусские новости: Все материалы" type="rss" xmlUrl="http://naviny.by/rss/alls.xml" htmlUrl="http://naviny.by/"/>
+      <outline text="Новости BELTA.BY" title="Новости BELTA.BY" type="rss" xmlUrl="http://www.belta.by/rss" htmlUrl="http://www.belta.by/ru" category="rss news"/>
+      <outline text="BBCRussian.com | Главная" title="BBCRussian.com | Главная" type="rss" xmlUrl="http://wsrss.bbc.co.uk/russian/index.xml" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fwww.bbc.co.uk%2Frussian%2Findex.xml" category="russian,homepage"/>
+    </outline>
+    <outline text="Новости IT">
+      <outline text="iXBT статьи" title="iXBT статьи" type="rss" xmlUrl="http://www.ixbt.com/export/articles.rdf" htmlUrl="http://www.ixbt.com/"/>
+      <outline text="Новости Компьютерра" title="Новости Компьютерра" type="rss" xmlUrl="http://feeds.feedburner.com/ct_news/" htmlUrl="http://www.compulenta.ru"/>
+    </outline>
+    <outline text="Новости сайтов">
+      <outline text="Ru-admin.net ежедневный обзор сети" title="Ru-admin.net ежедневный обзор сети" type="rss" xmlUrl="http://ru-admin.net/rss.xml" htmlUrl="http://ru-admin.net/"/>
+      <outline text="DreamProgs: Скачать софт и игры по прямым ссылкам" title="DreamProgs: Скачать софт и игры по прямым ссылкам" type="rss" xmlUrl="http://feeds.feedburner.com/dreamprogs/all" htmlUrl="http://dreamprogs.net/"/>
+      <outline text="SoftAZ" title="SoftAZ" type="rss" xmlUrl="http://softaznet.ru/engine/rss.php" htmlUrl="http://softaznet.ru/"/>
+      <outline text="SoftOSmotr.RU: Скачай бесплатно soft, фильмы, программы, варез(varez), и многое другое!" title="SoftOSmotr.RU: Скачай бесплатно soft, фильмы, программы, варез(varez), и многое другое!" type="rss" xmlUrl="http://softosmotr.ru/rss.xml" htmlUrl="http://softosmotr.ru/"/>
+      <outline text="689.RU" title="689.RU" type="rss" xmlUrl="http://www.689.ru/rss.xml" htmlUrl="http://www.689.ru/"/>
+      <outline text="IsraBox.com" title="IsraBox.com" type="rss" xmlUrl="http://www.israbox.be/rss.xml" htmlUrl="http://www.israbox.com/"/>
+      <outline text="HQ-VIDEO.ORG" title="HQ-VIDEO.ORG" type="rss" xmlUrl="http://www.hq-video.org/export/rss.xml" htmlUrl="http://hq-video.org"/>
+      <outline text="Последние материалы портала OSzone.net" title="Последние материалы портала OSzone.net" type="rss" xmlUrl="http://rss.feedsportal.com/c/852/f/441030/index.rss" htmlUrl="http://www.oszone.net"/>
+      <outline text="LEMnews.com" title="LEMnews.com" type="rss" xmlUrl="http://feeds.feedburner.com/lemnews" htmlUrl="http://lemnews.info/" category="Software"/>
+      <outline text="MTS news" title="MTS news" type="rss" xmlUrl="http://www.mts.by/rss/" htmlUrl="http://mts.by"/>
+      <outline text="Мультики by ArjLover" title="Мультики by ArjLover" type="rss" xmlUrl="http://multiki.arjlover.net/rss.xml" htmlUrl="http://multiki.arjlover.net/"/>
+    </outline>
+    <outline text="Новости спорта">
+      <outline text="Футбол Беларуси и мира - by.tribuna.com" title="Футбол Беларуси и мира - by.tribuna.com" type="rss" xmlUrl="http://by.tribuna.com/rss/rubric.xml?id=208" htmlUrl="http://by.tribuna.com/"/>
+      <outline text="Хоккей Беларуси и мира - by.tribuna.com" title="Хоккей Беларуси и мира - by.tribuna.com" type="rss" xmlUrl="http://by.tribuna.com/rss/rubric.xml?id=209" htmlUrl="http://by.tribuna.com/"/>
+      <outline text="Белорусский футбол : Новости" title="Белорусский футбол : Новости" type="rss" xmlUrl="http://www.football.by/news/index.rss" htmlUrl="http://www.football.by/news/"/>
+      <outline text="UEFA.com - - Новости" title="UEFA.com - - Новости" type="rss" xmlUrl="http://ru.uefa.com/rssfeed/news/rss.xml" htmlUrl="http://ru.uefa.com"/>
+      <outline text="СПОРТ-ЭКСПРЕСС. Новости трансферного рынка" title="СПОРТ-ЭКСПРЕСС. Новости трансферного рынка" type="rss" xmlUrl="http://ss.sport-express.ru/rss/transfers_news.rss" htmlUrl="http://www.sport-express.ru/"/>
+      <outline text="ЕвроФутбол.Ру Новости" title="ЕвроФутбол.Ру Новости" type="rss" xmlUrl="http://www.euro-football.ru/category/rss/" htmlUrl="http://www.euro-football.ru/"/>
+    </outline>
+    <outline text="Программирование">
+      <outline text="CodePlex" title="CodePlex" type="rss" xmlUrl="http://www.codeplex.com/site/feeds/rss" htmlUrl="http://www.codeplex.com/site/feeds/rss"/>
+      <outline text="The Code Project Latest Articles" title="The Code Project Latest Articles" type="rss" xmlUrl="http://www.codeproject.com/webservices/articlerss.aspx?cat=3" htmlUrl="http://www.codeproject.com"/>
+      <outline text="Новые материалы на MSDN" title="Новые материалы на MSDN" type="rss" xmlUrl="http://newsengine.cloudapp.net/MSDN/rss" htmlUrl="http://newsengine.cloudapp.net/?FeedName=MSDN"/>
+      <outline text="Programming stuff" title="Programming stuff" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/Znar" htmlUrl="http://sergeyteplyakov.blogspot.com/" category="Философия программирования,C#,.NET,Книги,ООП,C# Tips and Tricks,Design,Design by Contract,Юнит тестирование,Multithreading,Шаблоны проектирования,Управление зависимостями,Анонсы,Переводы,C++,SOLID,WCF,Мысли,Отладка приложений,Принципы разработки,Roslyn,Управление проектами,Цитаты,GC,TPL,Visual Studio,Code Contracts,Exception handling,Ссылки,.NET 4.5,Concurrency,F#,MVP,Обработка исключений,Функциональное программирование,C# 5.0,C# 6.0,Code Review,DDD,LINQ,RSDN Magazine,Reactive Extensions,ZJTZ,Майкрософт,Юмор,Google,Java,PostgreSql,PowerShell,ReSharper,Short circuit,TDD,TeX,Tech Digest,WPF,Windows Forms,Байки,Паттерны проектирования"/>
+      <outline text="MSDN Magazine: RSS Feed" title="MSDN Magazine: RSS Feed" type="rss" xmlUrl="http://sxp.microsoft.com/feeds/3.0/msdntn/MSDNMagazine_ruru?z=z&amp;all=1" htmlUrl="http://msdn.microsoft.com/magazine"/>
+      <outline text="Stump's Workshop" title="Stump's Workshop" type="rss" xmlUrl="http://stump-workshop.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://stump-workshop.blogspot.com/" category="Just fun,Programming,News,Software Engineering,DOTNET,Links,Microsoft,Architecture,Статьи,Entity Framework,Security,Web Services,Опросы,WCF,Windows8"/>
+    </outline>
+    <outline text="Работа">
+      <outline text="Redmine: Issues" title="Redmine: Issues" type="rss" xmlUrl="http://vm-redmine/issues.atom?assigned_to_id=me&amp;key=a86f3743056e71d71b6ed301da3a21c803119b3e&amp;set_filter=1&amp;sort=priority%3Adesc%2Cupdated_on%3Adesc" htmlUrl="http://vm-redmine/issues?assigned_to_id=me&amp;set_filter=1&amp;sort=priority%3Adesc%2Cupdated_on%3Adesc"/>
+    </outline>
+    <outline text="Фильмы">
+      <outline text="Kinopark.by - Сегодня в кинотеатрах" title="Kinopark.by - Сегодня в кинотеатрах" type="rss" xmlUrl="http://kinopark.by/today.rss.cgi" htmlUrl="http://kinopark.by"/>
+      <outline text="Фильмторрент" title="Фильмторрент" type="rss" xmlUrl="http://filmitorrent.org/rss.xml" htmlUrl="http://filmitorrent.org/"/>
+      <outline text="newfilmz.tv" title="newfilmz.tv" type="rss" xmlUrl="http://newfilmz.tv/rss.xml" htmlUrl="http://newfilmz.tv/"/>
+      <outline text="Новинки кино, тв каналы онлайн + торрент. Открытый кино трекер!" title="Новинки кино, тв каналы онлайн + торрент. Открытый кино трекер!" type="rss" xmlUrl="http://tv-filmy.com/rss.xml" htmlUrl="http://tv-films.me/"/>
+      <outline text="Kinopark.by - Программа на неделю" title="Kinopark.by - Программа на неделю" type="rss" xmlUrl="http://kinopark.by/films.rss.cgi" htmlUrl="http://kinopark.by"/>
+      <outline text="Трекер HDClub" title="Трекер HDClub" type="rss" xmlUrl="http://hdclub.org/rss.php?cat=70,78,71,62,64&amp;passkey=4fb3fbd0f35d11ac3e8f640fc2b3c962" htmlUrl="http://hdclub.org"/>
+    </outline>
+    <outline text="Юмор">
+      <outline text="Bash.Org.Ru" title="Bash.Org.Ru" type="rss" xmlUrl="http://bash.im/rss/" htmlUrl="http://bash.im/"/>
+    </outline>
+  </body>
+</opml>
